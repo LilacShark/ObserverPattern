@@ -1,11 +1,9 @@
-package mts.patterns.observer;
+package mts.patterns.observer.simple;
 
-import mts.patterns.observer.simple.ConcreteObserver;
-import mts.patterns.observer.simple.ConcreteSubject;
 import mts.patterns.observer.simple.interfaces.Observer;
 import mts.patterns.observer.simple.interfaces.Subject;
 
-public class Client {
+public class SimpleClient {
 
     public static void main(String[] args) {
 
